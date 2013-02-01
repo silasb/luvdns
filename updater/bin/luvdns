@@ -1,0 +1,5 @@
+#!/usr/bin/env luajit
+
+require 'lib' (require 'findbin' '/../lib')
+
+require'luvdns'
